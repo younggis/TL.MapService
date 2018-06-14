@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        html,body,#map {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .box {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            z-index: 99;
+        }
+    </style>
+    <script src="../js/ol.js"></script>
+    <script src="../js/jquery.min.js"></script>
+</head>
+<body>
+<div id="map"></div>
+<div id="searchbox" class="box">
+    <input type="text" id="searchtext"/>
+    <input type="button" value="查询" id="searchbutton"/>
+</div>
+<script>
+    $(function () {
+
+        var map = new ol.Map({
+            target: 'map',
+            view: new ol.View({
+                center: ol.proj.transform([104.06, 30.67], 'EPSG:4326', 'EPSG:3857'),
+                enableRotation: false,
+                zoom: 4,
+                minZoom: 4,
+                maxZoom: 12
+            })
+        });
+        var layer = new ol.layer.Tile({
+            source: new ol.source.TileArcGISRest({
+                extent: ol.proj.get('EPSG:3857').getExtent(),
+                url: 'http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineCommunity/MapServer'
+            })
+        });
+        map.addLayer(layer);
+
+        var countysource = new ol.source.Vector({
+            wrapX: false,
+            features: []
+        });
+        var countylayer = new ol.layer.Vector({
+            source: countysource
+        });
+        map.addLayer(countylayer);
+
+
+        $('#searchbutton').on('click', function() {
+            var text = $('#searchtext').val();
+            if (!text) {
+                alert("请输入行政区域名称！");
+            } else {
+                downloadregion(text);
+            }
+        });
+
+        function downloadregion(area) {
+            countylayer.getSource().clear();
+            $.ajax({
+                url: 'http://map.tianditu.com/query.shtml',
+                data: {
+                    type: 'query',
+                    postStr: '{"keyWord":"' + area + '","level":"7","mapBound":"73,3,136,54","queryType":"1","count":"20","start":"0","queryTerminal":"10000"}'
+                },
+                dataType: 'json',
+                success: function(result) {
+                    var regions = result.area.points;
+                    var center = result.area.lonlat;
+                    var wkt = "";
+                    if (regions.length > 1) {
+                        var line = "";
+                        for (var i = 0; i < regions.length; i++) {
+                            if (i == regions.length - 1) {
+                                line += "((" + regions[i].region + "))";
+                            } else {
+                                line += "((" + regions[i].region + ")),";
+                            }
+                        }
+                        wkt = "MULTIPOLYGON (" + line + ")";
+                    } else {
+                        wkt = "POLYGON ((" + regions[0].region + "))";
+                    }
+
+                    
+                    var wktformat = new ol.format.WKT();
+                    var feature = wktformat.readFeature(wkt, {
+                        dataProjection: 'EPSG:4326',
+                        featureProjection: 'EPSG:3857'
+                    });
+                    feature.setStyle(new ol.style.Style({
+                        fill: new ol.style.Fill({
+                            color: 'rgba(255, 255, 255, 0)'
+                        }),
+                        stroke: new ol.style.Stroke({
+                            color: 'rgba(58,66,255, 0.8)',
+                            width: 2
+                        })
+                    }));
+                    countylayer.getSource().addFeature(feature);
+                    map.getView().fit(feature.getGeometry().getExtent(), map.getSize());
+                },
+                error: function(error) {
+                    debugger;
+                }
+            });
+        }
+    });
+</script>
+</body>
+</html>

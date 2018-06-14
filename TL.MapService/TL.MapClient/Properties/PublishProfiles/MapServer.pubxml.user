@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\IIS\MapClient-0803</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DAL.Common.dll">
+      <publishTime>11/15/2017 01:59:56</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/23/2016 00:23:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/02/2013 12:10:10</publishTime>
+    </File>
+    <File Include="bin/TL.MapClient.dll">
+      <publishTime>11/15/2017 02:00:11</publishTime>
+    </File>
+    <File Include="colligate.html">
+      <publishTime>08/02/2017 15:44:27</publishTime>
+    </File>
+    <File Include="css/geoq.css">
+      <publishTime>04/10/2017 14:32:12</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>06/13/2017 10:08:18</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>05/04/2017 15:07:33</publishTime>
+    </File>
+    <File Include="css/map.css">
+      <publishTime>06/14/2017 16:17:46</publishTime>
+    </File>
+    <File Include="css/measuretool.css">
+      <publishTime>05/04/2017 15:26:39</publishTime>
+    </File>
+    <File Include="css/ol.css">
+      <publishTime>04/21/2017 15:15:14</publishTime>
+    </File>
+    <File Include="css/rgbcolor.css">
+      <publishTime>04/14/2017 11:25:29</publishTime>
+    </File>
+    <File Include="css/widgets.css">
+      <publishTime>04/14/2017 09:45:42</publishTime>
+    </File>
+    <File Include="font/iconfont.css">
+      <publishTime>06/14/2017 15:56:41</publishTime>
+    </File>
+    <File Include="font/iconfont.ttf">
+      <publishTime>06/14/2017 15:56:41</publishTime>
+    </File>
+    <File Include="font/iconfont.woff">
+      <publishTime>06/14/2017 15:56:41</publishTime>
+    </File>
+    <File Include="Handler/Handler.ashx">
+      <publishTime>08/01/2017 13:48:11</publishTime>
+    </File>
+    <File Include="images/background.jpg">
+      <publishTime>05/04/2017 14:57:39</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>11/02/2017 14:56:24</publishTime>
+    </File>
+    <File Include="images/icon.png">
+      <publishTime>04/10/2017 14:40:03</publishTime>
+    </File>
+    <File Include="images/icon/bingAerial.png">
+      <publishTime>06/01/2017 11:20:46</publishTime>
+    </File>
+    <File Include="images/icon/xiao1_03.png">
+      <publishTime>04/10/2017 15:03:37</publishTime>
+    </File>
+    <File Include="images/icon/xiao2_03.png">
+      <publishTime>04/10/2017 15:03:37</publishTime>
+    </File>
+    <File Include="images/icon/xiao3_03.png">
+      <publishTime>04/10/2017 15:03:37</publishTime>
+    </File>
+    <File Include="images/icon/xiao4_03.png">
+      <publishTime>04/10/2017 15:03:37</publishTime>
+    </File>
+    <File Include="images/loading.svg">
+      <publishTime>04/10/2017 14:35:24</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>04/21/2017 15:02:47</publishTime>
+    </File>
+    <File Include="images/thumbnail/baiduing.png">
+      <publishTime>06/13/2017 11:43:48</publishTime>
+    </File>
+    <File Include="images/thumbnail/baidumap.png">
+      <publishTime>04/18/2017 11:40:21</publishTime>
+    </File>
+    <File Include="images/thumbnail/bingmap.png">
+      <publishTime>04/18/2017 11:40:50</publishTime>
+    </File>
+    <File Include="images/thumbnail/gaodeimg.png">
+      <publishTime>06/13/2017 11:45:03</publishTime>
+    </File>
+    <File Include="images/thumbnail/gaodemap.png">
+      <publishTime>04/18/2017 11:41:12</publishTime>
+    </File>
+    <File Include="images/thumbnail/googleimg.png">
+      <publishTime>04/18/2017 11:41:26</publishTime>
+    </File>
+    <File Include="images/thumbnail/googleroad.png">
+      <publishTime>04/18/2017 11:41:42</publishTime>
+    </File>
+    <File Include="images/thumbnail/googleterrain.png">
+      <publishTime>04/18/2017 11:42:19</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban1.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban2.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban3.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban4.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban5.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/moban6.jpg">
+      <publishTime>04/20/2017 15:27:17</publishTime>
+    </File>
+    <File Include="images/thumbnail/openstreet.png">
+      <publishTime>04/18/2017 11:42:52</publishTime>
+    </File>
+    <File Include="images/thumbnail/tiandituimg.png">
+      <publishTime>04/18/2017 11:43:06</publishTime>
+    </File>
+    <File Include="images/thumbnail/tiandituroad.png">
+      <publishTime>04/18/2017 11:43:22</publishTime>
+    </File>
+    <File Include="images/thumbnail/timg.jpg">
+      <publishTime>04/20/2017 16:59:43</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>08/02/2017 10:41:28</publishTime>
+    </File>
+    <File Include="js/addlayer.js">
+      <publishTime>06/07/2017 21:41:45</publishTime>
+    </File>
+    <File Include="js/baselayer.js">
+      <publishTime>08/30/2017 23:26:39</publishTime>
+    </File>
+    <File Include="js/config.js">
+      <publishTime>06/08/2017 14:14:51</publishTime>
+    </File>
+    <File Include="js/drawtool.js">
+      <publishTime>06/15/2017 15:51:40</publishTime>
+    </File>
+    <File Include="js/echarts.min.js">
+      <publishTime>06/21/2017 11:32:20</publishTime>
+    </File>
+    <File Include="js/exports.js">
+      <publishTime>02/28/2017 21:56:59</publishTime>
+    </File>
+    <File Include="js/index.js">
+      <publishTime>06/15/2017 15:52:17</publishTime>
+    </File>
+    <File Include="js/inject_ol_cesium.js">
+      <publishTime>04/26/2017 11:12:17</publishTime>
+    </File>
+    <File Include="js/jquery-1.10.2.min.js">
+      <publishTime>11/24/2016 22:41:34</publishTime>
+    </File>
+    <File Include="js/jquery.cookie.js">
+      <publishTime>05/17/2017 22:35:27</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>04/10/2017 14:58:27</publishTime>
+    </File>
+    <File Include="js/jsencrypt.min.js">
+      <publishTime>05/21/2017 17:58:47</publishTime>
+    </File>
+    <File Include="js/login.js">
+      <publishTime>07/04/2017 12:41:05</publishTime>
+    </File>
+    <File Include="js/measuretool.js">
+      <publishTime>05/04/2017 15:34:58</publishTime>
+    </File>
+    <File Include="js/ol-v4.2.0.js">
+      <publishTime>06/12/2017 16:53:36</publishTime>
+    </File>
+    <File Include="js/ol.js">
+      <publishTime>08/02/2017 10:41:29</publishTime>
+    </File>
+    <File Include="js/olcesium-debug.js">
+      <publishTime>02/28/2017 21:56:59</publishTime>
+    </File>
+    <File Include="js/olcesium.js">
+      <publishTime>05/04/2017 15:51:49</publishTime>
+    </File>
+    <File Include="js/olcesium.js.map">
+      <publishTime>02/28/2017 21:56:59</publishTime>
+    </File>
+    <File Include="js/rgbcolor.js">
+      <publishTime>04/14/2017 11:25:46</publishTime>
+    </File>
+    <File Include="js/searchlayer.js">
+      <publishTime>06/12/2017 16:19:03</publishTime>
+    </File>
+    <File Include="layer/layer.js">
+      <publishTime>03/25/2017 00:40:12</publishTime>
+    </File>
+    <File Include="layer/mobile/layer.js">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/mobile/need/layer.css">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/skin/default/icon-ext.png">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/skin/default/icon.png">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/skin/default/layer.css">
+      <publishTime>04/25/2017 17:46:13</publishTime>
+    </File>
+    <File Include="layer/skin/default/loading-0.gif">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/skin/default/loading-1.gif">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="layer/skin/default/loading-2.gif">
+      <publishTime>03/06/2017 16:43:06</publishTime>
+    </File>
+    <File Include="monitor.html">
+      <publishTime>11/02/2017 16:49:53</publishTime>
+    </File>
+    <File Include="view/downloadregion.html">
+      <publishTime>08/11/2017 18:51:52</publishTime>
+    </File>
+    <File Include="view/gaode-image.html">
+      <publishTime>06/13/2017 10:36:49</publishTime>
+    </File>
+    <File Include="view/gaode-road.html">
+      <publishTime>10/31/2017 14:18:03</publishTime>
+    </File>
+    <File Include="view/google-image.html">
+      <publishTime>06/07/2017 14:18:35</publishTime>
+    </File>
+    <File Include="view/google-road.html">
+      <publishTime>06/07/2017 14:18:10</publishTime>
+    </File>
+    <File Include="view/index.html">
+      <publishTime>07/04/2017 12:35:02</publishTime>
+    </File>
+    <File Include="view/tdt-image.html">
+      <publishTime>06/07/2017 14:18:28</publishTime>
+    </File>
+    <File Include="view/tdt-label.html">
+      <publishTime>06/07/2017 14:18:46</publishTime>
+    </File>
+    <File Include="view/tdt-road.html">
+      <publishTime>06/07/2017 14:18:25</publishTime>
+    </File>
+    <File Include="view/urlbaidu.html">
+      <publishTime>11/02/2017 15:08:19</publishTime>
+    </File>
+    <File Include="view/urlstr.html">
+      <publishTime>09/11/2017 15:57:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/02/2017 19:25:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

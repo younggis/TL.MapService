@@ -1,0 +1,164 @@
+
+ 
+记录时间：2017-08-01 18:27:49,633 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.Data.OleDb.OleDbException (0x80004005): Microsoft Office Access 数据库引擎无法打开文件“\\192.168.2.88\DataBase\Database.accdb”或无法向其写入数据。它已经被其他用户以独占方式打开，或者您没有查看或写入其数据的权限。
+   在 System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   在 System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.OleDb.OleDbConnection.Open()
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteNonQuery(String comText, OleDbParameter[] param) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 35
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 40
+   在 DAL.Common.Helper.SqlserverHelper.OnlineRequest(Int32 numbers) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 25
+   在 TL.MapService.WriteFileHelper.ThreadSqlHelper() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 161
+
+ 
+记录时间：2017-08-01 18:33:16,748 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.Data.OleDb.OleDbException (0x80004005): Microsoft Office Access 数据库引擎无法打开文件“\\192.168.2.88\DataBase\Database.accdb”或无法向其写入数据。它已经被其他用户以独占方式打开，或者您没有查看或写入其数据的权限。
+   在 System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   在 System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.OleDb.OleDbConnection.Open()
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteNonQuery(String comText, OleDbParameter[] param) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 35
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 40
+   在 DAL.Common.Helper.SqlserverHelper.OnlineRequest(Int32 numbers) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 25
+   在 TL.MapService.WriteFileHelper.ThreadSqlHelper() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 161
+
+ 
+记录时间：2017-08-01 19:37:59,461 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:37:59,477 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273
+
+ 
+记录时间：2017-08-01 19:38:47,714 
+线程ID:[44] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:38:47,715 
+线程ID:[44] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273
+
+ 
+记录时间：2017-08-01 19:38:49,340 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:38:49,341 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273
+
+ 
+记录时间：2017-08-01 19:46:38,391 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:46:38,430 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273
+
+ 
+记录时间：2017-08-01 19:46:39,142 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:46:39,144 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273
+
+ 
+记录时间：2017-08-01 19:46:39,382 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-08-01 19:46:39,383 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 273

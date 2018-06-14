@@ -1,0 +1,480 @@
+
+ 
+记录时间：2017-11-02 14:08:36,356 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:36,481 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:37,704 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:37,705 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:39,154 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:39,154 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:39,638 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:39,639 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:39,978 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:39,979 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:40,940 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:40,940 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:41,307 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:41,307 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:41,686 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:41,686 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:42,059 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:42,060 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:42,667 
+线程ID:[28] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:42,667 
+线程ID:[28] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:42,993 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:42,993 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:43,331 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:43,331 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:43,672 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:43,672 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:44,008 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:44,009 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:44,346 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:44,346 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:44,697 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:44,697 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:45,046 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:45,047 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:45,538 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:45,539 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:08:54,510 
+线程ID:[28] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:08:54,510 
+线程ID:[28] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:09:53,080 
+线程ID:[44] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:09:53,081 
+线程ID:[44] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:14:15,556 
+线程ID:[27] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:14:15,574 
+线程ID:[27] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:24:10,299 
+线程ID:[56] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:24:10,300 
+线程ID:[56] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 14:26:10,296 
+线程ID:[74] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 14:26:10,297 
+线程ID:[74] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-11-02 15:56:56,302 
+线程ID:[92] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-11-02 15:56:56,375 
+线程ID:[92] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257

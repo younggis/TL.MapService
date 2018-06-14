@@ -1,0 +1,52 @@
+
+ 
+记录时间：2017-12-25 10:04:00,803 
+线程ID:[DefaultQuartzScheduler_Worker-1] 
+日志级别：  DEBUG 
+出错类：Logging property: [(null)] - 
+错误描述：多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+ 
+System.Exception: 多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.DeleteOnline(Int32 day) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 35
+   在 TL.MapService.DeleteHistoryJob.DeleteResponse(String daylength) 位置 h:\HighTop\TL.MapService\TL.MapService\DeleteHistoryJob.cs:行号 33
+
+ 
+记录时间：2017-12-25 10:04:08,682 
+线程ID:[DefaultQuartzScheduler_Worker-2] 
+日志级别：  DEBUG 
+出错类：Logging property: [(null)] - 
+错误描述：多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+ 
+System.Exception: 多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.DeleteOnline(Int32 day) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 35
+   在 TL.MapService.DeleteHistoryJob.DeleteResponse(String daylength) 位置 h:\HighTop\TL.MapService\TL.MapService\DeleteHistoryJob.cs:行号 33
+
+ 
+记录时间：2017-12-25 10:10:34,785 
+线程ID:[DefaultQuartzScheduler_Worker-1] 
+日志级别：  DEBUG 
+出错类：Logging property: [(null)] - 
+错误描述：多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+ 
+System.Exception: 多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.DeleteOnline(Int32 day) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 35
+   在 TL.MapService.DeleteHistoryJob.DeleteResponse(String daylength) 位置 h:\HighTop\TL.MapService\TL.MapService\DeleteHistoryJob.cs:行号 33
+
+ 
+记录时间：2017-12-25 10:10:46,137 
+线程ID:[DefaultQuartzScheduler_Worker-2] 
+日志级别：  DEBUG 
+出错类：Logging property: [(null)] - 
+错误描述：多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+ 
+System.Exception: 多余的 ) 在查询表达式 'DateDiff('d',[DATETIME], FORMAT(NOW(),'yyyy-mm-dd hh:mm:ss'))>=7))' 中。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.DeleteOnline(Int32 day) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 35
+   在 TL.MapService.DeleteHistoryJob.DeleteResponse(String daylength) 位置 h:\HighTop\TL.MapService\TL.MapService\DeleteHistoryJob.cs:行号 33

@@ -1,0 +1,20 @@
+
+ 
+记录时间：2017-09-10 00:01:54,975 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 TL.MapService.WriteFileHelper.WriteFile() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 237
+
+ 
+记录时间：2017-09-10 00:02:55,061 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 TL.MapService.WriteFileHelper.WriteFile() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 237

@@ -1,0 +1,2980 @@
+
+ 
+记录时间：2017-09-09 20:31:43,158 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:43,645 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:43,854 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:44,075 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:44,450 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:49,668 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:54,758 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:54,979 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:55,199 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 20:31:55,465 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 275
+
+ 
+记录时间：2017-09-09 21:06:49,994 
+线程ID:[40] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:49,994 
+线程ID:[53] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:49,995 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:49,995 
+线程ID:[42] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:49,994 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:49,995 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:50,209 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:06:50,267 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,099 
+线程ID:[42] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,381 
+线程ID:[53] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,409 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,410 
+线程ID:[38] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,463 
+线程ID:[40] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,477 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,525 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:04,646 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:43,108 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:43,631 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:43,896 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:44,223 
+线程ID:[46] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:45,121 
+线程ID:[45] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:45,659 
+线程ID:[45] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:49,065 
+线程ID:[46] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:07:49,467 
+线程ID:[48] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:08:59,269 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:08:59,269 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:08:59,426 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:08:59,613 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:08:59,882 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:09:00,292 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:09:00,572 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:09:00,864 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:31,867 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:31,981 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:32,283 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:32,503 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:32,741 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:32,954 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:33,159 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:11:33,518 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,393 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,392 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,392 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,392 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,393 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:07,393 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,376 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,559 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,600 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,653 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,682 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,834 
+线程ID:[27] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:08,872 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:09,309 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:09,364 
+线程ID:[22] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:09,448 
+线程ID:[23] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:10,723 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:11,047 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:11,327 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:11,513 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:11,637 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:11,883 
+线程ID:[21] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:12,056 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:12,336 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:40,164 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:40,474 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:40,848 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:41,057 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:41,351 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:41,602 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:41,882 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:12:42,243 
+线程ID:[26] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:53,779 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:53,872 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:54,101 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:54,411 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:54,786 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:55,086 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:55,287 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:13:55,561 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:28,877 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:28,960 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,020 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,033 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,071 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,107 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,224 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,263 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,266 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,359 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,383 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,451 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,573 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,592 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,617 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,648 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,665 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,763 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,881 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,894 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,977 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:29,985 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,036 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,084 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,152 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,210 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,288 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,318 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,388 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,461 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,463 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:30,496 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:31,615 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:31,796 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:31,976 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:32,163 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:32,343 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:32,541 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:32,727 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:32,916 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:33,091 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:14:44,371 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:03,646 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:05,199 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:05,227 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:06,018 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:06,379 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:06,935 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:07,283 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:08,185 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:08,429 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:08,484 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:13,232 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:13,635 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:13,877 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:13,946 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:14,505 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:14,541 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:15,223 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:22,834 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:22,901 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:22,985 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,075 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,094 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,122 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,229 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,230 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,256 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,360 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,407 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,464 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,528 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:15:23,550 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,040 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,040 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,040 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,043 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,040 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,040 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,315 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:18:17,366 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,753 
+线程ID:[31] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,834 
+线程ID:[33] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,889 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,934 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,896 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:17,952 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:18,050 
+线程ID:[35] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:19:18,116 
+线程ID:[30] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 276
+
+ 
+记录时间：2017-09-09 21:42:07,174 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 277
+
+ 
+记录时间：2017-09-09 21:49:24,105 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:49:24,106 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:49:24,106 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:49:24,106 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:49:24,105 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:49:24,105 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:17,499 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:17,542 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,339 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,369 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,375 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,435 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,456 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,471 
+线程ID:[32] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,621 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:22,668 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,541 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,667 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,667 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,712 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,757 
+线程ID:[14] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,773 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,932 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:36,981 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,330 
+线程ID:[35] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,355 
+线程ID:[39] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,425 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,483 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,510 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,520 
+线程ID:[36] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,635 
+线程ID:[34] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:50:55,695 
+线程ID:[38] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:17,580 
+线程ID:[45] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:45,060 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,464 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,464 
+线程ID:[41] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,496 
+线程ID:[46] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,524 
+线程ID:[42] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,630 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:51:48,697 
+线程ID:[47] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:01,357 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:03,037 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:04,450 
+线程ID:[57] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:04,808 
+线程ID:[59] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:04,998 
+线程ID:[56] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:05,009 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:05,274 
+线程ID:[58] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:05,334 
+线程ID:[61] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,392 
+线程ID:[57] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,397 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,417 
+线程ID:[60] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,547 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,618 
+线程ID:[57] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,722 
+线程ID:[61] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,754 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,767 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,782 
+线程ID:[58] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,888 
+线程ID:[56] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:07,949 
+线程ID:[60] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,067 
+线程ID:[58] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,101 
+线程ID:[59] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,106 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,118 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,234 
+线程ID:[60] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,394 
+线程ID:[58] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,394 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,440 
+线程ID:[59] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,458 
+线程ID:[57] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,503 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,558 
+线程ID:[61] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,632 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,751 
+线程ID:[57] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,774 
+线程ID:[59] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,774 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,846 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,866 
+线程ID:[61] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:08,938 
+线程ID:[55] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 21:53:09,017 
+线程ID:[54] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 278
+
+ 
+记录时间：2017-09-09 22:12:48,303 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:12:48,304 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:12:48,304 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:12:48,307 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:12:48,309 
+线程ID:[19] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:12:48,317 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 252
+
+ 
+记录时间：2017-09-09 22:58:47,144 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264
+
+ 
+记录时间：2017-09-09 22:58:47,144 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264
+
+ 
+记录时间：2017-09-09 22:58:47,144 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264
+
+ 
+记录时间：2017-09-09 22:58:47,144 
+线程ID:[16] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264
+
+ 
+记录时间：2017-09-09 22:58:47,145 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264
+
+ 
+记录时间：2017-09-09 22:58:55,900 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 TL.MapService.WriteFileHelper.WriteFile() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 257
+
+ 
+记录时间：2017-09-09 22:59:11,965 
+线程ID:[15] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 264

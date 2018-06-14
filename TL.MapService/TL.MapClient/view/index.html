@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="../js/jquery.min.js"></script>
+</head>
+<body>
+    <script>
+        $(function () {
+
+            $.getJSON("http://112.74.101.152:12302/RailService.svc/WithIn?jsoncallback=?", {
+                coordinates: JSON.stringify([{ id: 1, lng: 85.891, lat: 44.242 }, { id: 2, lng: 104.62353, lat: 31.08081 }, { id: 3, lng: 104.67546, lat: 31.03182 }])
+            },
+                        function (data) {
+                            console.log(JSON.parse(data));
+                        }, function (e) {
+                            console.log(e.message);
+                        });
+        })
+    </script>
+</body>
+</html>

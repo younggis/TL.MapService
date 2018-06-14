@@ -1,0 +1,44 @@
+
+ 
+记录时间：2017-09-11 16:34:42,751 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-09-11 16:34:42,772 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作已超时。
+   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.Stream.ReadByte()
+   在 TL.MapService.MapService.StreamToBytes(Stream stream) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 300
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 256
+
+ 
+记录时间：2017-09-11 18:11:35,832 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 文件写入失败！
+
+ 
+记录时间：2017-09-11 18:11:35,849 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.IO.IOException: 文件“D:\Cache\tdt\V0\road\10\162\803.png”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileSystemRights rights, FileShare share, Int32 bufferSize, FileOptions options)
+   在 TL.MapService.WriteFileHelper.<>c__DisplayClass4.<WriteMapFileByByte>b__3() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 253

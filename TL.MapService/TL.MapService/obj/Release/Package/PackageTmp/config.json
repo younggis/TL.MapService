@@ -1,0 +1,142 @@
+﻿[
+    {
+        "maptype": "gaode-road", 
+        "url": "http://webrd0{n}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}", 
+        "folder": "gaode\\", 
+        "version": "V0", 
+        "type": "\\road\\",
+        "minserver": 1,
+        "maxserver": 4,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "gaode-image",
+        "url": "http://webst0{n}.is.autonavi.com/appmaptile?style=6&x={x}&y={y}&z={z}",
+        "folder": "gaode\\",
+        "version": "V0",
+        "type": "\\image\\",
+        "minserver": 1,
+        "maxserver": 4,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "gaode-label",
+        "url": "http://webst0{n}.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=zh_cn&size=1&scale=1&style=8",
+        "folder": "gaode\\",
+        "version": "V0",
+        "type": "\\label\\",
+        "minserver": 1,
+        "maxserver": 4,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "tdt-road",
+        "url": "http://t{n}.tianditu.com/DataServer?T=vec_w&x={x}&y={y}&l={z}",
+        "folder": "tdt\\",
+        "version": "V0",
+        "type": "\\road\\",
+        "minserver": 0,
+        "maxserver": 7,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "tdt-image",
+        "url": "http://t{n}.tianditu.com/DataServer?T=img_w&x={x}&y={y}&l={z}",
+        "folder": "tdt\\",
+        "version": "V0",
+        "type": "\\image\\",
+        "minserver": 0,
+        "maxserver": 7,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "tdt-label",
+        "url": "http://t{n}.tianditu.com/DataServer?T=cva_w&x={x}&y={y}&l={z}",
+        "folder": "tdt\\",
+        "version": "V0",
+        "type": "\\label\\",
+        "minserver": 0,
+        "maxserver": 7,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "baidu-road",
+        "url": "http://online{n}.map.bdimg.com/tile/?qt=tile&x={x}&y={y}&z={z}&styles=pl&udt=20170726&scaler=1",
+        "folder": "baidu\\",
+        "version": "V0",
+        "type": "\\road\\",
+        "minserver": 0,
+        "maxserver": 9,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "baidu-image",
+        "url": "http://shangetu{n}.map.bdimg.com/it/u=x={x};y={y};z={z};v=009;type=sate&fm=46&udt=20170726&scaler=1",
+        "folder": "baidu\\",
+        "version": "V0",
+        "type": "\\image\\",
+        "minserver": 0,
+        "maxserver": 9,
+        "suffix": ".jpg"
+    },
+    {
+        "maptype": "baidu-label",
+        "url": "http://online{n}.map.bdimg.com/tile/?qt=tile&x={x}&y={y}&z={z}&styles=sl&v=083&udt=20170726&scaler=1",
+        "folder": "baidu\\",
+        "version": "V0",
+        "type": "\\label\\",
+        "minserver": 0,
+        "maxserver": 9,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "google-road",
+        "url": "http://mt{n}.google.cn/vt/lyrs=m@226000000&hl=zh-CN&gl=cn&x={x}&y={y}&z={z}&s=Gali",
+        "folder": "google\\",
+        "version": "V0",
+        "type": "\\road\\",
+        "minserver": 0,
+        "maxserver": 3,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "google-image",
+        "url": "http://khm{n}.google.com/kh/v=729&x={x}&y={y}&z={z}&s=Galiz",
+        "folder": "google\\",
+        "version": "V0",
+        "type": "\\image\\",
+        "minserver": 0,
+        "maxserver": 3,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "openstreet-road",
+        "url": "http://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "folder": "openstreet\\",
+        "version": "V0",
+        "type": "\\image\\",
+        "minserver": 0,
+        "maxserver": 1,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "openstreet-terrain",
+        "url": "http://c.tile.thunderforest.com/cycle/{z}/{x}/{y}.png",
+        "folder": "openstreet\\",
+        "version": "V0",
+        "type": "\\terrain\\",
+        "minserver": 0,
+        "maxserver": 1,
+        "suffix": ".png"
+    },
+    {
+        "maptype": "geoq-boundaryandlabel",
+        "url": "http://thematic.geoq.cn/arcgis/rest/services/ThematicMaps/administrative_division_boundaryandlabel/MapServer/tile/{z}/{x}/{y}",
+        "folder": "geoq\\",
+        "version": "V0",
+        "type": "\\boundaryandlabel\\",
+        "minserver": 0,
+        "maxserver": 1,
+        "suffix": ".png"
+    }
+]

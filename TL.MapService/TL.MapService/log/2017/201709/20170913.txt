@@ -1,0 +1,40 @@
+
+ 
+记录时间：2017-09-13 16:52:04,162 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-09-13 16:52:04,182 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257
+
+ 
+记录时间：2017-09-13 16:53:20,799 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-09-13 16:53:20,818 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 257

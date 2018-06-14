@@ -1,0 +1,110 @@
+﻿<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="font/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="css/geoq.css">
+    <link rel="stylesheet" type="text/css" href="css/ol.css">
+    <link rel="stylesheet" type="text/css" href="layer/skin/default/layer.css">
+    <link rel="stylesheet" type="text/css" href="css/measuretool.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/map.css">
+    <link rel="shortcut icon" href="images/icon.png">
+    <title>GIS展示系统</title>
+</head>
+<body class="fontfix no-select">
+    <div id="media" class="">
+        <div id="west">
+            <div class="header-widget">
+                <div class="header-button center transition" id="baselayer">
+                    <i class="iconfont icon-genghuanmoban"></i><label>底图</label>
+                </div>
+                <div class="header-button center transition" id="measure">
+                    <i class="iconfont icon-celiang-copy"></i><label>测量</label>
+                </div>
+                <div class="header-button center transition" id="update">
+                    <i class="iconfont icon-gengxin"></i><label>更新</label>
+                </div>
+                <div class="header-button center transition" id="fullmap">
+                    <i class="iconfont icon-quantu"></i><label>全图</label>
+                </div>
+            </div>
+            <div class="user-widget">
+                <div class="user center hover">
+                    <i class="iconfont icon-iconfontcolor19"></i>
+                </div>
+            </div>
+            <div class="user-manage">
+                <div class="top-button center transition" id="addserver">
+                    <i class="iconfont icon-tianjia"></i><label>添加</label>
+                </div>
+                <div class="top-button center transition" id="logout">
+                    <i class="iconfont icon-tuichu"></i><label>退出</label>
+                </div>
+            </div>
+        </div>
+        <div id="east">
+            <div id="map" style="background-color: rgb(255, 255, 255);">
+                <div id="mouse-position" class="mouse-position-wrapper">
+                    <div class="custom-mouse-position"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/ol-v4.2.0.js"></script>
+    <script src="layer/layer.js"></script>
+    <script src="js/measuretool.js"></script>
+    <script src="js/drawtool.js"></script>
+    <script src="js/baselayer.js"></script>
+    <script src="js/index.js"></script>
+    <div class="map-list popup-box" id="map-list">
+        <div class="map-group">
+            <div class="map-item round2x baiduroad" data-name="baiduroad" data-tempid="0" data-available="true">
+                <div class="map-item-name animation">百度地图</div>
+            </div>
+            <div class="map-item round2x baiduimage" data-name="baiduimage" data-tempid="1" data-available="true">
+                <div class="map-item-name animation">百度影像图</div>
+            </div>
+            <div class="map-item round2x gaoderoad" data-name="gaoderoad" data-tempid="2" data-available="true">
+                <div class="map-item-name animation">高德地图</div>
+            </div>
+            <div class="map-item round2x gaodeimage" data-name="gaodeimage" data-tempid="3" data-available="true">
+                <div class="map-item-name animation">高德影像</div>
+            </div>
+            <div class="map-item round2x tiandituroad active" data-name="tiandituroad" data-tempid="4" data-available="true">
+                <div class="map-item-name animation">天地图路网</div>
+            </div>
+            <div class="map-item round2x tiandituimg" data-name="tiandituimg" data-tempid="5" data-available="true">
+                <div class="map-item-name animation">天地图影像</div>
+            </div>
+            <div class="map-item round2x googleroad" data-name="googleroad" data-tempid="6" data-available="true">
+                <div class="map-item-name animation">谷歌路线图</div>
+            </div>
+            <div class="map-item round2x googleimg" data-name="googleimg" data-tempid="8" data-available="true">
+                <div class="map-item-name animation">谷歌卫星图</div>
+            </div>
+
+        </div>
+    </div>
+<div class="measure-list popup-box" id="measure-list">
+    <div class="measure-btn distance" id="mealength">
+        <i class="iconfont icon-ceju"></i>
+    </div>
+    <div class="measure-btn area" id="meaarea">
+        <i class="iconfont icon-cemian"></i>
+    </div>
+</div>
+    <div class="draw-list popup-box" id="draw-list">
+        <div class="draw-btn line" id="drawline">
+            <i class="iconfont icon-ceju"></i>
+        </div>
+        <div class="draw-btn clicle" id="drawcircle">
+            <i class="iconfont icon-iconfontwancheng"></i>
+        </div>
+        <div class="draw-btn polygon" id="drawpolygon">
+            <i class="iconfont icon-duobianxing"></i>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,240 @@
+
+ 
+记录时间：2017-06-07 14:28:42,470 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:28:42,504 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:28:42,718 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:28:42,718 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:28:47,511 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:28:47,512 
+线程ID:[24] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:28:56,482 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:28:56,483 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:28:57,607 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:28:57,607 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:10,865 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:10,868 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:11,802 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:11,802 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:11,956 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:11,957 
+线程ID:[25] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:13,789 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:13,789 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 请求被中止: 操作超时。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:16,191 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:16,194 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:16,517 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:16,517 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111
+
+ 
+记录时间：2017-06-07 14:29:22,797 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 网络请求失败！
+
+ 
+记录时间：2017-06-07 14:29:22,798 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapService(String maptype, Int32 x, Int32 y, Int32 z) 位置 h:\VS2013\TL.MapService\TL.MapService\MapService.svc.cs:行号 111

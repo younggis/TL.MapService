@@ -1,0 +1,13 @@
+
+ 
+记录时间：2017-08-03 13:54:25,235 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.Exception: 不能使用 '\\192.168.2.88\DataBase\Database.accdb'；文件已在使用中。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.SuccessResponse(Int32 numbers, String type) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 39
+   在 TL.MapService.WriteFileHelper.ThreadSqlHelper() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 169

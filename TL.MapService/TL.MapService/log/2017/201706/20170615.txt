@@ -1,0 +1,44 @@
+
+ 
+记录时间：2017-06-15 14:11:20,253 
+线程ID:[70] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 文件写入失败！
+
+ 
+记录时间：2017-06-15 14:11:20,275 
+线程ID:[70] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.IO.IOException: 文件“C:\Cache\tdt\V0\road\4\11\6.png”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileSystemRights rights, FileShare share, Int32 bufferSize, FileOptions options, FileSecurity fileSecurity)
+   在 TL.MapService.WriteFileHelper.<>c__DisplayClass4.<WriteMapFileByByte>b__3() 位置 h:\VS2013\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 179
+
+ 
+记录时间：2017-06-15 14:42:17,833 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: 文件写入失败！
+
+ 
+记录时间：2017-06-15 14:42:17,848 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.IO.DirectoryNotFoundException: 未能找到路径“C:\Cache\tdt\V0\road\14\12925\6727.png”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileSystemRights rights, FileShare share, Int32 bufferSize, FileOptions options, FileSecurity fileSecurity)
+   在 TL.MapService.WriteFileHelper.<>c__DisplayClass4.<WriteMapFileByByte>b__3() 位置 h:\VS2013\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 179

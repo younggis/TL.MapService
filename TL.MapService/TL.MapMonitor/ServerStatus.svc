@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TL.MapMonitor.ServerStatus" CodeBehind="ServerStatus.svc.cs" %>

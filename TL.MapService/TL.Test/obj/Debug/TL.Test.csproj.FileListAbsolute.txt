@@ -1,0 +1,6 @@
+H:\HighTop\TL.MapService\TL.Test\obj\Debug\TL.Test.csprojResolveAssemblyReference.cache
+H:\HighTop\TL.MapService\TL.Test\obj\Debug\Interop.MSXML2.dll
+H:\HighTop\TL.MapService\TL.Test\obj\Debug\TL.Test.csproj.ResolveComReference.cache
+H:\HighTop\TL.MapService\TL.MapService\TL.Test\bin\Debug\TL.Test.exe.config
+H:\HighTop\TL.MapService\TL.MapService\TL.Test\obj\Debug\Interop.MSXML2.dll
+H:\HighTop\TL.MapService\TL.MapService\TL.Test\obj\Debug\TL.Test.csproj.ResolveComReference.cache

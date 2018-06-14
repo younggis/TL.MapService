@@ -1,0 +1,13 @@
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\TL.MapMonitor.dll.config
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\TL.MapMonitor.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\TL.MapMonitor.pdb
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\DAL.Common.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\log4net.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\Newtonsoft.Json.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\DAL.Common.pdb
+H:\HighTop\TL.MapService\TL.MapMonitor\bin\log4net.xml
+H:\HighTop\TL.MapService\TL.MapMonitor\obj\Debug\TL.MapMonitor.csprojResolveAssemblyReference.cache
+H:\HighTop\TL.MapService\TL.MapMonitor\obj\Debug\Interop.MSXML2.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\obj\Debug\TL.MapMonitor.csproj.ResolveComReference.cache
+H:\HighTop\TL.MapService\TL.MapMonitor\obj\Debug\TL.MapMonitor.dll
+H:\HighTop\TL.MapService\TL.MapMonitor\obj\Debug\TL.MapMonitor.pdb

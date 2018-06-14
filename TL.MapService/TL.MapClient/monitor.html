@@ -1,0 +1,261 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        html, body, .container {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            color: #066295;
+        }
+
+        body {
+            background-image: url(images/bg.jpg);
+        }
+
+        #top {
+            margin-top: 30px;
+            width: 100%;
+            height: 40%;
+            margin-bottom: 40px;
+        }
+
+        #left {
+            width: 50%;
+            height: 40%;
+            float: left;
+        }
+
+        #right {
+            width: 50%;
+            height: 40%;
+            float: right;
+        }
+
+        .selection {
+            margin: 10px;
+            width: 48px;
+            z-index: 99;
+            background-color: #0B304D;
+            color: #066295;
+            width: 107px;
+            height: 25px;
+            border: none;
+        }
+
+        #request, #success, #error {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/echarts.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div id="top">
+            频率：
+            <select class="selection" id="requesttype">
+                <option value="minute">秒</option>
+                <option value="hour">分</option>
+                <option value="day">时</option>
+                <option value="week">天</option>
+            </select>
+            <div id="request"></div>
+        </div>
+        <div id="left">
+            频率：
+            <select class="selection" id="successtype">
+                <option value="minute">秒</option>
+                <option value="hour">分</option>
+                <option value="day">时</option>
+                <option value="week">天</option>
+            </select>
+            类型：
+            <select class="selection" id="successsource">
+                <option value=""></option>
+                <option value="folder">文件</option>
+                <option value="web">网络</option>
+            </select>
+            <div id="success"></div>
+        </div>
+        <div id="right">
+            频率：
+            <select class="selection" id="errortype">
+                <option value="minute">秒</option>
+                <option value="hour">分</option>
+                <option value="day">时</option>
+                <option value="week">天</option>
+            </select>
+            类型：
+            <select class="selection" id="errorsource">
+                <option value=""></option>
+                <option value="folder">文件</option>
+                <option value="web">网络</option>
+            </select>
+            <div id="error"></div>
+        </div>
+    </div>
+    <script>
+
+        $(function () {
+            requestnumber();
+            successnumber();
+            errornumber();
+            update();
+        });
+
+        function update() {
+            setTimeout(function () {
+                requestnumber();
+                successnumber();
+                errornumber();
+                update();
+            }, 5000);
+        }
+
+        function formatedata(data) {
+            var datetime = [];
+            var number = [];
+            for (var i = 0; i < data.length; i++) {
+                datetime.push(data[i].requesttime);
+                number.push(data[i].requestcount);
+            }
+            return {
+                datetime: datetime,
+                number: number
+            }
+        }
+
+        function requestnumber() {
+            $.ajax({
+                url: '/Handler/Handler.ashx',
+                data: {
+                    YT: 'request',
+                    type: $("#requesttype").val()
+                },
+                type: "GET",
+                dataType: 'json',
+                success: function (result) { //成功执行
+                    var data = formatedata(result.data);
+                    drawechart(data, 'request', '访问次数', "#ADD8F7");
+                },
+                error: function (error) { //失败执行
+                    console.log(error.message);
+                }
+            });
+        }
+        function successnumber() {
+            $.ajax({
+                url: '/Handler/Handler.ashx',
+                data: {
+                    YT: 'success',
+                    type: $("#successtype").val(),
+                    success: $("#successsource").val()
+                },
+                type: "GET",
+                dataType: 'json',
+                success: function (result) { //成功执行
+                    var data = formatedata(result.data);
+                    drawechart(data, 'success', '成功次数', "#03A569");
+                },
+                error: function (error) { //失败执行
+                    console.log(error.message);
+                }
+            });
+        }
+        function errornumber() {
+            $.ajax({
+                url: '/Handler/Handler.ashx',
+                data: {
+                    YT: 'error',
+                    type: $("#errortype").val(),
+                    error: $("#errorsource").val()
+                },
+                type: "GET",
+                dataType: 'json',
+                success: function (result) { //成功执行
+                    var data = formatedata(result.data);
+                    drawechart(data, 'error', '失败次数', "#EBBCBF");
+                },
+                error: function (error) { //失败执行
+                    console.log(error.message);
+                }
+            });
+        }
+        function drawechart(data, id, title, color) {
+            var myChart = echarts.init(document.getElementById(id));
+            var option = {
+                title: {
+                    text: title,
+                    x: 'center',
+                    y: 'top',
+                    textStyle: {
+                        color: '#FFF',
+                        fontSize: 18,
+                        fontWeight: 400
+                    }
+                },
+                tooltip: {
+                    trigger: 'axis'
+                },
+                calculable: true,
+                xAxis: [
+                    {
+                        type: 'category',
+                        boundaryGap: false,
+                        axisLine: {
+                            lineStyle: {
+                                color: '#77C2F7'
+                            }
+                        },
+                        axisLabel: {
+                            fontSize: 12
+                        },
+                        data: data.datetime
+                    }
+                ],
+                yAxis: [
+                    {
+                        name: '次',
+                        nameTextStyle: {
+                            fontSize: 12,
+                        },
+                        axisLabel: {
+                            fontSize: 12
+                        },
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                color: '#77C2F7'
+                            }
+                        },
+                    }
+                ],
+                series: [
+                    {
+                        name: title,
+                        type: 'line',
+                        stack: '总量',
+                        itemStyle: {
+                            normal: {
+                                areaStyle: {
+                                    type: 'default'
+                                },
+                                color: color
+                            }
+                        },
+                        data: data.number
+                    }
+                ]
+            };
+            myChart.setOption(option);
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,180 @@
+
+ 
+记录时间：2017-08-10 14:34:46,496 
+线程ID:[17] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:46,702 
+线程ID:[27] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:46,849 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:46,999 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:47,159 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:47,320 
+线程ID:[18] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:34:47,479 
+线程ID:[20] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:14,498 
+线程ID:[37] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:43,309 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:45,382 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:51,128 
+线程ID:[52] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:52,332 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:52,981 
+线程ID:[52] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 14:37:53,633 
+线程ID:[43] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TL.MapService.MapService.GeteMapServer(String maptype, String x, String y, String z) 位置 h:\HighTop\TL.MapService\TL.MapService\MapService.svc.cs:行号 272
+
+ 
+记录时间：2017-08-10 23:44:33,485 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.Exception: '\\192.168.2.88\DataBase\Database.accdb'不是一个有效的路径。 确定路径名称拼写是否正确，以及是否连接到文件存放的服务器。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.OnlineRequest(Int32 numbers) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 25
+   在 TL.MapService.WriteFileHelper.ThreadSqlHelper() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 163
+
+ 
+记录时间：2017-08-10 23:45:56,931 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Logging property: [(null)] - 
+错误描述：Error
+ 
+System.Exception: System.Exception: '\\192.168.2.88\DataBase\Database.accdb'不是一个有效的路径。 确定路径名称拼写是否正确，以及是否连接到文件存放的服务器。
+   在 DAL.Common.DB.DbHelperOleDb.ExecuteSql(String SQLString) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\DbHelperOleDb.cs:行号 37
+   在 DAL.Common.DB.commHelper.insertAccessTable(String sqlStr) 位置 h:\HighTop\TL.MapService\DAL.Common\DB\commHelper.cs:行号 41
+   在 DAL.Common.Helper.SqlserverHelper.OnlineRequest(Int32 numbers) 位置 h:\HighTop\TL.MapService\DAL.Common\Helper\SqlserverHelper.cs:行号 25
+   在 TL.MapService.WriteFileHelper.ThreadSqlHelper() 位置 h:\HighTop\TL.MapService\TL.MapService\WriteFileHelper.cs:行号 163

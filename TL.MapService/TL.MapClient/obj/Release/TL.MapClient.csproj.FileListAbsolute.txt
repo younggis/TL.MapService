@@ -1,0 +1,15 @@
+H:\VS2013\TL.MapService\TL.MapClient\bin\TL.MapClient.dll.config
+H:\VS2013\TL.MapService\TL.MapClient\bin\TL.MapClient.dll
+H:\VS2013\TL.MapService\TL.MapClient\bin\TL.MapClient.pdb
+H:\VS2013\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.csprojResolveAssemblyReference.cache
+H:\VS2013\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.dll
+H:\VS2013\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.pdb
+H:\HighTop\TL.MapService\TL.MapClient\bin\TL.MapClient.dll.config
+H:\HighTop\TL.MapService\TL.MapClient\bin\TL.MapClient.dll
+H:\HighTop\TL.MapService\TL.MapClient\bin\TL.MapClient.pdb
+H:\HighTop\TL.MapService\TL.MapClient\bin\DAL.Common.dll
+H:\HighTop\TL.MapService\TL.MapClient\bin\Newtonsoft.Json.dll
+H:\HighTop\TL.MapService\TL.MapClient\bin\DAL.Common.pdb
+H:\HighTop\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.csprojResolveAssemblyReference.cache
+H:\HighTop\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.dll
+H:\HighTop\TL.MapService\TL.MapClient\obj\Release\TL.MapClient.pdb
